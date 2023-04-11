@@ -29,6 +29,8 @@ body{
     height: 660px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     text-align: center;
+    overflow: scroll;
+    overflow-x: hidden;
 }
 aside{
     
@@ -137,4 +139,7 @@ margin-top:auto;
 }
 a { 
   color: inherit; 
+}
+h5 {
+  color:red;
 }
